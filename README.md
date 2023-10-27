@@ -1,16 +1,14 @@
-### Hi there 👋
+# 👋 Hello, I'm Bernard
 
-<!--
-**bfriscic/bfriscic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Java Developer | Aspiring Frontend Dev | DevOps Enthusiast
 
-Here are some ideas to get you started:
+🔧 Crafting code with a passion for Java.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Exploring the world of frontend development.
+
+🌐 Learning the ropes of DevOps for streamlined workflows.
+
+### 📬 Get in Touch:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernard-fri%C5%A1%C4%8Di%C4%87/)
+
