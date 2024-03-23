@@ -1,10 +1,8 @@
 # 👋 Hello, I'm Bernard
 
-## Java Developer | Aspiring Frontend Dev | DevOps Enthusiast
+## Java Developer | DevOps Enthusiast
 
 🔧 Crafting code with a passion for Java.
-
-🚀 Exploring the world of frontend development.
 
 🌐 Learning the ropes of DevOps for streamlined workflows.
 
